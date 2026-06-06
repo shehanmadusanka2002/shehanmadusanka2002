@@ -66,10 +66,10 @@
 ## 🌍 Connect With Me  
 <div align="center">
   <a href="https://github.com/shehanmadusanka2002">
-    <img src="https://img.shields.io/badge/GitHub-Dumindu--Dulanjaya-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Shehan--Madusanka-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/shehan-madhusanka-952523305/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dumindu%20Dulanjaya-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shehan%20Madusanka-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://myportfolio-coral-theta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox" />
