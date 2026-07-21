@@ -61,7 +61,7 @@
 | Project | Description |
 |:--|:--|
 | **🐟 AQUALINK** | Full-stack platform for Sri Lanka’s ornamental fish industry, featuring authentication, cart management, delivery integration, and role-based dashboards for sellers, customers, and delivery personnel. Built with React, Spring Boot, and MySQL. |
-| **💻 LapGalaxy | Secure full-stack e-commerce platform with dedicated customer and admin portals. Built using React, Spring Boot, and MySQL. |
+| 💻 LapGalaxy | Secure full-stack e-commerce platform with dedicated customer and admin portals. Built using React, Spring Boot, and MySQL. |
 | **🏢 Nexora ERP – Enterprise ERP Ecosystem** | Multi-tenant enterprise ERP ecosystem covering Finance, HR, and Inventory. Features automated double-entry accounting, cross-module master data synchronization, duplicate-prevention mechanisms, and scalable Spring Boot microservices with Next.js. |
 | **🧾 Nexora POS – Advanced POS & Billing System** | Comprehensive retail POS solution with real-time cart management, dynamic MRP and selling price support, customizable store settings, secure JWT-based role access, and direct ESC/POS printer integration using TCP sockets. |
 ---
