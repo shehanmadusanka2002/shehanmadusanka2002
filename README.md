@@ -93,7 +93,7 @@
 <div align="center">
   💻 **Languages & Frameworks** – Java, Python, JavaScript, Spring Boot, React, Next.js 
   🤖 **AI & ML** – Generative AI, ML pipelines  
-  ☁️ **Cloud & DevOps** – AWS, Docker, Jenkins, GitHub Actions  
+  ☁️ **Cloud & DevOps** – AWS, Docker, CI/CD Pipeline, GitHub Actions  
 </div>
 
 ---
