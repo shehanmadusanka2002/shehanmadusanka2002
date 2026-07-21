@@ -43,12 +43,16 @@
 
 | 🧩 Area | 🛠️ Technologies & Tools |
 |:--|:--|
-| 💬 Programming Languages | Java, Python, JavaScript |
-| 🌐 Web / Back-end | Spring Boot, REST APIs, Node.js |
-| 🗃️ Databases | MySQL, PostgreSQL, MongoDB |
-| 🎨 Front-end | HTML5, CSS3, React |
+| 💬 Programming Languages | Java, Python, JavaScript, SQL |
+| 🌐 Web / Back-end | Spring Boot, Node.js, NestJS, RESTful APIs |
+| 🗃️ Databases | MySQL, PostgreSQL, MongoDB, Firebase, Redis |
+| 🎨 Front-end | React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| 🔐 Security & Authentication | JWT Authentication, Role-Based Access Control |
+| ☁️ Cloud & DevOps | AWS (EC2, S3, Lambda), Docker, CI/CD |
 | 🔄 Version Control | Git, GitHub |
+| 🛠️ Development Tools | IntelliJ IDEA, Linux |
 | ⚙️ Methodologies | Agile / Scrum |
+| 🎯 Other Skills | API Integration, Responsive UI/UX |
 
 ---
 
@@ -56,11 +60,10 @@
 
 | Project | Description |
 |:--|:--|
-| **🐟 AQUALINK** | React & Spring Boot platform connecting Sri Lanka’s ornamental fish farms, shops, and delivery services. |
-| **💻 LapGalaxy - Smart Laptop Shop** | Full-stack e-commerce app (React, Spring Boot, MySQL) with an admin dashboard for sales management. |
-| **🎬 MovieManiac** | Responsive web app fetching real-time movie data using React.js and TMDB API. |
-| **📅 Conference Day Management System** | PHP & MySQL based system to efficiently manage conference sessions, venues, and participants. |
-| **🌤️ Weatherly - Weather App** | Real-time weather application built with React.js, Tailwind CSS, and OpenWeatherMap API. |
+| **🐟 AQUALINK** | Full-stack platform for Sri Lanka’s ornamental fish industry, featuring authentication, cart management, delivery integration, and role-based dashboards for sellers, customers, and delivery personnel. Built with React, Spring Boot, and MySQL. |
+| **💻 LapGalaxy | Secure full-stack e-commerce platform with dedicated customer and admin portals. Built using React, Spring Boot, and MySQL. |
+| **🏢 Nexora ERP – Enterprise ERP Ecosystem** | Multi-tenant enterprise ERP ecosystem covering Finance, HR, and Inventory. Features automated double-entry accounting, cross-module master data synchronization, duplicate-prevention mechanisms, and scalable Spring Boot microservices with Next.js. |
+| **🧾 Nexora POS – Advanced POS & Billing System** | Comprehensive retail POS solution with real-time cart management, dynamic MRP and selling price support, customizable store settings, secure JWT-based role access, and direct ESC/POS printer integration using TCP sockets. |
 ---
 
 ## 🌍 Connect With Me  
